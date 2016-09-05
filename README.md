@@ -3,10 +3,10 @@
 	<head>
 		<meta charset="utf-8"/>
 		<title>ng-stripe-tutorial Pet Shop</title>
-    <script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/53148/EasePack.min.js">
-    <script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/53148/TweenLite.min.js">
-     <script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/53148/easeljs-0.7.1.min.js">
-    <script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/53148/requestAnimationFrame.js">
+		    <script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/53148/EasePack.min.js"></script>
+		    <script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/53148/TweenLite.min.js"></script>
+		    <script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/53148/easeljs-0.7.1.min.js"></script>
+		    <script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/53148/requestAnimationFrame.js"></script>
 	  <style>
 	    body {
   background: #eee;
